@@ -27,6 +27,8 @@ I'm an aspiring IT professional with an interest in networking, cybersecurity, a
 
 
 🛠️ Skills and Tools
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Networking: Cisco networking, IP addressing, subnetting
 
@@ -43,6 +45,8 @@ Security Monitoring: Wazuh
 
 
 🎯 My Goals
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Build a strong foundation in networking and cybersecurity.
 
@@ -59,12 +63,16 @@ Continue learning and growing in the IT and cybersecurity fields.
 
 
 ⚡ Fun Fact
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 I enjoy playing and coaching football. I also love exploring new technologies and finding opportunities to learn through hands-on projects.
 
 
 
 📫 How to Reach Me
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 LinkedIn: https://www.linkedin.com/in/prince-atinyo/
 
