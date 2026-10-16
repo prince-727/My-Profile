@@ -9,6 +9,7 @@ I'm an aspiring IT professional with an interest in networking, cybersecurity, a
 🎓 Education: [University of West London]
 
 📚 What I'm Currently Learning
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🌐 Cisco networking and network fundamentals
 
